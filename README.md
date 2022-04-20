@@ -2,7 +2,7 @@
 - 🦆 I'm a duck who codes :)
 - 🐍 I mostly code with Python
 - 🌱 I’m currently learning JavaScript
-- 🥅 My goal is to make my own website and game :D
+- 🥅 My goal is to make my own website and API :D
 
 
 
