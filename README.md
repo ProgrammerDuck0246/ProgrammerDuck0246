@@ -1,9 +1,11 @@
 👋 Hi, I’m @ProgrammerDuck0246
+
 - 🦆 I'm a duck who codes :)
-- 🐍 I mostly code with Python
-- 🌱 I’m currently learning JavaScript
+- 🐍 I mostly code with Python, Javascript and Typescript.
+- 🌱 I’m currently learning KoaJS.
 - 🥅 My goal is to make my own website and API :D
 
+### I'm a front-end developer.
 
 
 
