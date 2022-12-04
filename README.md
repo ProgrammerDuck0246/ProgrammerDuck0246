@@ -2,10 +2,10 @@
 
 - 🦆 I'm a duck who codes :)
 - 🐍 I mostly code with Python, Javascript and Typescript.
-- 🌱 I’m currently learning KoaJS.
+- 🌱 I’m currently learning tRPC and back-end.
 - 🥅 My goal is to make my own website and API :D
 
-### I'm a front-end developer.
+### I'm a front-end dev who's trying to be a full-stack dev.
 
 
 
